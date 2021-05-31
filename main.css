@@ -1,0 +1,14 @@
+html, body {
+  height: 100%;
+}
+
+#clock {
+  text-align: center;
+  font-family: 'ZCOOL KuaiLe', cursive;
+  font-size: 76px;
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  margin-top: -38px;
+  color: white;
+}
